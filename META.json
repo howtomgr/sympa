@@ -1,0 +1,67 @@
+{
+  "category": "mailing-lists",
+  "created_date": "2025-09-15T22:48:59.224291",
+  "default_ports": [
+    80,
+    443,
+    2048
+  ],
+  "dependencies": [
+    "perl",
+    "mysql",
+    "apache"
+  ],
+  "description": "Sympa is a free and open-source Mailing List. Mailing list management software",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/mailing-lists/sympa",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/mailing-lists/sympa",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.224308",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "sympa",
+  "repository_url": "https://github.com/howtomgr/sympa",
+  "spec_version": "2.0",
+  "subcategory": "mailing-lists",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "mailing-lists",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "Sympa Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/mailing-lists/sympa"
+}
